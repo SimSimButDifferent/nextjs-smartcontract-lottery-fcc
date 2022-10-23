@@ -6,7 +6,7 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 
 [Full Repo](https://github.com/SimSimButDifferent/nextjs-smartcontract-lottery-fcc)
 
-![image](https://user-images.githubusercontent.com/88177427/197370652-eef4a79a-3a8c-4df5-89e2-7573db85b0bd.png)
+![image](https://user-images.githubusercontent.com/88177427/197385877-cdb9649d-865d-4fca-8905-d71bcfa8882c.png)
 
 
 [Example App here!](https://simslotto.on.fleek.co/)
